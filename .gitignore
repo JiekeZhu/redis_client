@@ -41,3 +41,10 @@
 *.db
 /win/x64/Debug
 *.opendb
+/win/hiredis/x64/Release
+/win/RedisClient/x64/Release
+/win/TestSuite/x64/Release
+/win/Win32_Interop/lua/x64/Release
+/win/Win32_Interop/Win32_Interop/x64/Release/Win32_Interop.tlog
+/win/Win32_Interop/Win32_Interop/x64/Release
+/win/x64/Release
