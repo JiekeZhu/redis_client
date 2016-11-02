@@ -27,3 +27,17 @@
 *.exe
 *.out
 *.app
+*.suo
+/win/hiredis/x64/Debug
+/win/ipch/TESTSUITE-5556b7ff
+/win/RedisClient/x64/Debug
+/win/TestSuite/x64/Debug
+/win/Win32_Interop/lua/Win32/Debug
+/win/Win32_Interop/lua/x64/Debug
+/win/Win32_Interop/Win32/Debug
+/win/Win32_Interop/Win32_Interop/Win32/Debug
+/win/Win32_Interop/Win32_Interop/x64/Debug
+/win/Win32_Interop/x64/Debug
+*.db
+/win/x64/Debug
+*.opendb
